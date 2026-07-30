@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+My choice of domain is student reviews of 5 CS professors at Hunter College who are known to teach required CS. This knowledge is valuable because it allows prospective students to determine what clases to sign up for based on the who is teaching it. This is hard to find through official channels because it may involve a lot of research and website scrolling, which take up the students time. Instead, the student would be able to receive a quick answer by asking the AI tool a question. 
+
 ---
 
 ## Documents
@@ -20,7 +22,7 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
+| 1 | Rate my professor|Reviews of him teaching CSCI 260, computer architecture. |[Shankar - RateMyProfessors](https://www.ratemyprofessors.com/professor/257190) |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
